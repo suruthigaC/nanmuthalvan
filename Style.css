@@ -1,0 +1,16 @@
+Form {
+  Border: 2px solid #3498db; /* Border color (blue in this example) */
+  Padding: 20px; /* Add some padding for spacing */
+  Width: 50%; /* Adjust the width as needed */
+  Margin: 0 auto; /* Center the form on the page */
+}
+Button {
+  Background-color: #3498db; /* Button background color (blue in this example) */
+  Color: white; /* Text color */
+  Border: none;
+  Padding: 10px 20px; /* Add some padding to the button */
+  Cursor: pointer;
+}
+Button:hover {
+  Background-color: #2980b9; /* Change the background color on hover */
+}
